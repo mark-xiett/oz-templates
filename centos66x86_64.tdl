@@ -1,0 +1,16 @@
+<template>
+  <name>centos66x86_64</name>
+  <disk>
+    <size>40</size>
+  </disk>
+  <os>
+    <name>CentOS-6</name>
+    <version>6</version>
+    <arch>x86_64</arch>
+    <install type='iso'>
+      <iso>http://172.23.11.11/iso/linux/centos/CentOS-6.6-x86_64-bin-DVD1.iso</iso>
+    </install>
+    <rootpw>Lc13yfwpW</rootpw>
+  </os>
+  <description>CentOS 6.6 x86_64</description>
+</template>

@@ -1,0 +1,16 @@
+<template>
+  <name>centos72x86_64</name>
+  <disk>
+    <size>40</size>
+  </disk>
+  <os>
+    <name>CentOS-7</name>
+    <version>2</version>
+    <arch>x86_64</arch>
+    <install type='iso'>
+      <iso>http://172.23.11.11/mirrors/centos/7.2.1511/isos/x86_64/CentOS-7-x86_64-Minimal-1511.iso</iso>
+    </install>
+    <rootpw>Lc13yfwpW</rootpw>
+  </os>
+  <description>CentOS 7.2 x86_64</description>
+</template>
